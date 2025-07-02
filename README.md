@@ -55,12 +55,6 @@ A **real-time media hub** designed to connect university students, instructors, 
 
 ---
 
-## 📸 Screenshots
-
-> *(You can add images here later by uploading screenshots of your project UI)*
-
----
-
 ## 📬 Contact
 
 **Sitara Shehzad**  
